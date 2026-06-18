@@ -88,6 +88,6 @@ What the deliverable looked like and whether the client was satisfied
 
 ## Contact
 
-- **Fiverr:** [your profile link]
-- **Workana:** [your profile link]
+- **Fiverr:** [profile link]
+- **Workana:** [profile link]
 - **Email:** [vicente.falcon.arancibia@protonmail.com]
